@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://raviyadav3003.github.io/csb-7ikgxz/static/css/main.6831561f.chunk.css",
+    "main.js": "https://raviyadav3003.github.io/csb-7ikgxz/static/js/main.898c6260.chunk.js",
+    "main.js.map": "https://raviyadav3003.github.io/csb-7ikgxz/static/js/main.898c6260.chunk.js.map",
+    "runtime-main.js": "https://raviyadav3003.github.io/csb-7ikgxz/static/js/runtime-main.790b464e.js",
+    "runtime-main.js.map": "https://raviyadav3003.github.io/csb-7ikgxz/static/js/runtime-main.790b464e.js.map",
+    "static/js/2.0d65949e.chunk.js": "https://raviyadav3003.github.io/csb-7ikgxz/static/js/2.0d65949e.chunk.js",
+    "static/js/2.0d65949e.chunk.js.map": "https://raviyadav3003.github.io/csb-7ikgxz/static/js/2.0d65949e.chunk.js.map",
+    "index.html": "https://raviyadav3003.github.io/csb-7ikgxz/index.html",
+    "static/css/main.6831561f.chunk.css.map": "https://raviyadav3003.github.io/csb-7ikgxz/static/css/main.6831561f.chunk.css.map",
+    "static/js/2.0d65949e.chunk.js.LICENSE.txt": "https://raviyadav3003.github.io/csb-7ikgxz/static/js/2.0d65949e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.790b464e.js",
+    "static/js/2.0d65949e.chunk.js",
+    "static/css/main.6831561f.chunk.css",
+    "static/js/main.898c6260.chunk.js"
+  ]
+}
